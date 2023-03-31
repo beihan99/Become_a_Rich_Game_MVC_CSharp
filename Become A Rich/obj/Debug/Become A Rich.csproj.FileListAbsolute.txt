@@ -1,0 +1,22 @@
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\bin\Debug\Become A Rich.exe.config
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\bin\Debug\Become A Rich.exe
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\bin\Debug\Become A Rich.pdb
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.csprojAssemblyReference.cache
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\obj\Debug\Become_A_Rich.Properties.Resources.resources
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.csproj.GenerateResource.cache
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.csproj.CoreCompileInputs.cache
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.exe
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.pdb
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\obj\Debug\Become_A_Rich.HomeForm.resources
+C:\Users\Selvi\source\repos\Become A Rich\Become A Rich\obj\Debug\Become_A_Rich.GameForm.resources
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\bin\Debug\Become A Rich.exe.config
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\bin\Debug\Become A Rich.exe
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\bin\Debug\Become A Rich.pdb
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.csprojAssemblyReference.cache
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\obj\Debug\Become_A_Rich.HomeForm.resources
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\obj\Debug\Become_A_Rich.GameForm.resources
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\obj\Debug\Become_A_Rich.Properties.Resources.resources
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.csproj.GenerateResource.cache
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.exe
+C:\Users\Dell Vostro 3580\source\repos\Become A Rich\Become A Rich\obj\Debug\Become A Rich.pdb
