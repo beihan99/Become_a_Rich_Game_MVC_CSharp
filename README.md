@@ -1,5 +1,4 @@
 -- Views from the game --
-
 ![Become_a_Rich_View1](https://user-images.githubusercontent.com/44369740/229240209-c18f0a71-eba3-4050-a2e5-e563aad55b4f.png)
 
 ![Become_a_Rich_View2](https://user-images.githubusercontent.com/44369740/229240214-8350d3a5-f4b1-4224-98ac-3a3aa97909b3.png)
